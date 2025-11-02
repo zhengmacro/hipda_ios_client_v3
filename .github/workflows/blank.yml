@@ -24,4 +24,4 @@ jobs:
         with:
           commit_message: "Auto: Refresh ping - $(date -u)"  # 提交消息
           file_pattern: '*.md'  # 只提交 .md 文件（可改）
-          branch: main  # 你的默认分支
+          branch: master  # 你的默认分支
